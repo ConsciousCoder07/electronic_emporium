@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chatbot-327906",
+  "private_key_id": "4fa6180caa5a90a342a0c2c02efb1db8c4523764",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDmr4gAi4v+tSf5\nsUJ4okKy55JWQy3+G/JJ/VAXNvaf/mxvwmPHwG6SunNYbGUEFwYfD5h3PUvvkw1P\nH5CXzjqsjjDwUnY050INVznvDh283MeeYu14qlFcK/gZBP38TFeGzirLY4M08sy4\nCRTHStk2yX/JrgRGh+BXZ12bcoteg9DUxBnDWA+fvqM7gCXya5Hux/ufe22Bu6nA\nL6nJwHUU3Kv3t6+59X3t5LGAyMtJb95dCemg8ov8pFMx4BQHwwaHzlyNPoYgBUsf\n1R3ufL4Elga81jNWYq2PG8eZBqyeHGxodp08ZnY3cDwRiQKPx7+Wl93JDk1/mmtc\n0sJyvXtPAgMBAAECggEAZsHf+iYvGSmHAhG0w1m8DkdbBzPro9q9Bbph18Vy/Hfv\nw6S6n7sXRiLpyISYRscewe1HhC34ymIdtpYf6Y9C0aSRJiwFXbF52cl2FAectYk/\nHk2A7JQpo74uSK7RmHZFMtZZd7n/MzHIgV4CNHgh4+bEFol+fBCAnU59AwZ2EIYc\ng2uxkHphGElrvMB12nViYHb2saEmkCWBziTKxconrOLopDuM5Em2229tJ2dWZU4g\naVjHCLcqf9MSEJMP5FebTjp6DKmMlsPBy/nqCMgakZv0dXBCvcfAzaunXUDz3SL4\nl9QhMD9WeVDq8xd09Bp/P7ZdXKufpygkpJklMzLrOQKBgQD6Leoa9egI36mCRtjZ\nqZxtWk5kejuixiBzaDbrysLDRepZmdbSf86F7TM5xv8ffYA9UEAwyUmUl35ZjO3W\nbQk88y3HuG6mFLu+IK3sMg/t/vQNb3ZZKM4BD22+FWJY2ouf9Ix5fLbd6ESMrT7P\nuj4N3FsKiZaCN2c2u2kFsyRHDQKBgQDsDYLUUGgPE0NMahkXRnB7BQHoGQj3DMYM\n5QK456Fit+eZ4ySCRi/iwyg3IhNsCemQMzsI3bWDZVhUO8jaxYzdoyIrqSdPmDtm\nrXGplnP904DTWHhO3GrQLVC0u/JCHpU2QVhMaslTiQbMp5KSEl/zG+dizwC0hOBG\n2vDmLhS0ywKBgA32xhxfIWZtZX66CZyMlQidg8aj8/Qv7tvCM16R4LEZk+0QYyc4\nrwRWqwdMjizpymChvBN9CLhchFbnQNc5GszmHeYJ61Ml0RzZohuO58i29FRTpl1v\no5/3hn6XnveqqyRwd+7IAUT9k+XuPZVGpfQMGqDJ8TavdPlfGIuS5jF5AoGAU8vk\nErzMg/WBoYHUkGeoDHPVnnAst47oS7GMitlneCTy6bUxw7Fo1GYVQ6UsIeFO8arO\nHTKfehqjBZwHjGouvItp2Pf+hYn0JFoUDHDlkkjf5ab1ZoFmxaogiVhjAsfajl0a\nHF6YQ7hUGpiuNn6hYysXtALqLCszdtPISt426YsCgYEA2D7a9hNKJ8ZWUF7zWOEr\nw3ekJDrTJNU2oVLd1w0gB98kPc80U18lHtXQqXGT7j9q1qNIPiTl17k+0f43zuVj\n6WpZI3XFnkDz9oXqolAZ0x+Ui21ET1eeIuJaTz0fObhw2y6kSxdBZjbVys+rXkMh\nuFvbILlHJCCygeoJX6HxEZ8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "electronicsemporium@chatbot-327906.iam.gserviceaccount.com",
+  "client_id": "111181316605802521425",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/electronicsemporium%40chatbot-327906.iam.gserviceaccount.com"
+}
